@@ -1,0 +1,15 @@
+customtkinter==5.2.2 
+
+Pillow==10.4.0 
+
+matplotlib==3.9.2 
+
+numpy==1.26.4 
+
+pandas==2.2.3 
+
+scikit-learn==1.5.2 
+
+pyshark==0.6 
+
+nest_asyncio==1.6.0
