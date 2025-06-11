@@ -1,6 +1,6 @@
 # NET TRACER
 
-NET TRACER is a Python application with a GUI  for analyzing PCAP files. It performs network packet analysis, clustering, and anomaly detection using machine learning techniques. The application visualizes anomalies and clusters through histograms and scatter plots.
+NET TRACER is a Python tool  for analyzing PCAP files. It performs network packet analysis, clustering, and anomaly detection using machine learning techniques. The application visualizes anomalies and clusters through histograms and scatter plots.
 
 ## Features
 
@@ -51,7 +51,7 @@ NET TRACER is a Python application with a GUI  for analyzing PCAP files. It perf
 
 ## Project Structure
 
-- `net_tracer.py`: Main application script containing the GUI and analysis logic.
+- `net_tracer.py`: Main application script containing the code for GUI and analysis logic.
 - `requirements.txt`: List of Python dependencies.
 - `README.md`: Project documentation.
 - Output files:
